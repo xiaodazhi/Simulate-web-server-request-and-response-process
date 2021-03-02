@@ -62,7 +62,7 @@ login=controller.LoginController
 请输入密码<input name="password" value=""><br>
 ```
 
-这里我解析了<input>标签做成了控制台输入
+这里我解析了input标签做成了控制台输入
 
 浏览器接收到响应信息并进行解析  展示
 
